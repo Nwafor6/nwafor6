@@ -45,8 +45,7 @@ I'm based in Awka, Anambra State, Nigeria, and I'm always open to discussing new
 
 ### 🌱 What I'm Currently Learning
 
-I'm currently diving deeper into advanced topics in backend development, cloud computing, and exploring new front-end frameworks. I'm also interested in contributing to open-source projects and expanding my freelancing portfolio.
-
+I'm currently diving deeper into advanced topics in backend development, cloud computing, and exploring new AI tools. I'm also interested in contributing to open-source projects and expanding my freelancing portfolio. Additionally, I'm learning to integrate AI into backend development and exploring Solidity.
 ### 💡 Fun Fact
 
 When I'm not coding, I enjoy exploring new technologies, reading about the latest industry trends, and spending time outdoors. I'm also a quick learner and love taking on new challenges!
