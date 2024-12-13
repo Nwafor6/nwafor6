@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Full Stack Web Developer specializing in Bac
 
 ### 🖼️ About Me
 
-![Profile Picture](https://img.freepik.com/free-photo/close-up-fresh-apple_144627-14640.jpg)
+![Profile Picture](https://avatars.githubusercontent.com/u/86606900?v=4)
 
 ### 🚀 Skills & Expertise
 
